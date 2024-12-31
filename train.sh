@@ -1,6 +1,6 @@
 WORKSPACE="/data"
 DATA_PATH="Neo111x/decompile_LLM"
-OUTPUT_PATH="${WORKSPACE}/LLM4Decompile/output_models/falCodecompile-large-7b-v2"
+OUTPUT_PATH="${WORKSPACE}/output_models/falCodecompile-large-7b-v2"
 MODEL_PATH="tiiuae/Falcon3-7B-Base"
 
 deepspeed --num_gpus=4 finetune.py \
