@@ -1,14 +1,14 @@
 # finetuning-tutorial
 
 ## structure of the repository:
-
+```
 finetuning-tutorial/
 ├── README.md
 ├── ds.json
 ├── finetune.py
 ├── requirements.txt
 └── train.sh
-
+```
 ### Files:
 
 * README.md: Provides instructions on how to set up and run the fine-tuning tutorial.
