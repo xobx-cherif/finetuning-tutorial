@@ -1,5 +1,6 @@
 # finetuning-tutorial
 
+[falcon](./decompile.webp)
 ## structure of the repository:
 ```
 finetuning-tutorial/
